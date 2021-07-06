@@ -9,5 +9,8 @@ In addition: We can see that additonal locations are added for End station than 
 ![Trips by file location](https://user-images.githubusercontent.com/78058338/124678451-86040780-de90-11eb-9581-f29b0e293c9b.PNG)
 images.githubusercontent.com/78058338/124678440-83091700-de90-11eb-9dbb-db1aa078c50a.PNG)
 ![Trip_Duration](https://user-images.githubusercontent.com/78058338/124678443-843a4400-de90-11eb-8021-4f7a6798c166.PNG)
+![Bike ride by gender for year and month](https://user-images.githubusercontent.com/78058338/124679768-15aab580-de93-11eb-9066-daa5e08a3452.PNG)
+![Bike users by location _gender](https://user-images.githubusercontent.com/78058338/124679973-6d492100-de93-11eb-9ceb-dcba2594447d.PNG)
+
 
 
